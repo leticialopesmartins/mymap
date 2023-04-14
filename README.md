@@ -1,4 +1,4 @@
 # mymap
-Mapa do municipio de louveira
+Mapa das Sub-bacias da [area de manancial do município de Louveira-SP.
 
-You can explore this map [as its own web page here](mapaLoveira.html)
+Você pode explorar esse mapa [como uma página web clicando aqui](mapaLoveira.html)
