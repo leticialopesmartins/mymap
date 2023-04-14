@@ -1,2 +1,4 @@
 # mymap
-<iframe src="mapaLoveira.html" height="500" width="500"></iframe>
+Mapa do municipio de louveira
+
+You can explore this map [as its own web page here](mapaLoveira.html)
